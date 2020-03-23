@@ -1,7 +1,7 @@
 # Sites feitos
 
 MindShare: Site feito para facilitar e reduzir custos de viagens com palestrantes entre os Institutos Federais
-  [MindShare] (https://mindshare.cpsoftware.com.br)
+  [MindShare](https://mindshare.cpsoftware.com.br)
 
 ## Installation
 
