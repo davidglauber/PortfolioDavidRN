@@ -7,22 +7,28 @@
 SearchDevs: Um site que cadastra empresas que procuram desenvolvedores próximos EM CONJUNTO com um aplicativo voltado aos desenvolvedores que procuram empregos. Usada a API do google maps
 
 ## Conquistas
-
+```bash
 Palestrou no [IFAL IoT](https://doity.com.br/ifal-iot) 2018 às 16H25 - Palestra: Raspberry Pi como roteador wi-fi e servidor web 
+```
 
+```bash
 1º Lugar no Primeiro Concurso de Aplicativos do IFAL (realizado no dia 25 de Agosto de 2018).
+```
 
-##Experiências em:
+```bash
+Experiências em:
 ReactJS (React hooks), React Native (React hooks), Firebase (Database, Store, Auth0), JavaScript, CSS, Prototipagem
+```
+```bash
+Formação: Técnico de Informática
+```
 
-
-##Formação: Técnico de Informática
-
-##Idioma:
+```bash
+Idioma:
 Português: Nativo
 Inglês: Intermediário
 Espanhol: Básico
-
+```
 
 ## Usage
 
