@@ -1,12 +1,16 @@
-# Sites feitos
+# Sites e Aplicativos desenvolvidos
 
 [MindShare](https://mindshare.cpsoftware.com.br): Site feito para facilitar e reduzir custos de viagens com palestrantes entre os Institutos Federais
 
 [LoadOn](https://loadon.netlify.com/): Site simples que consome uma ListAPI do Youtube 
 
-## Installation
+SearchDevs: Um site que cadastra empresas que procuram desenvolvedores próximos EM CONJUNTO com um aplicativo voltado aos desenvolvedores que procuram empregos. Usada a API do google maps
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Conquistas
+
+###Palestrou no [IFAL IoT](https://doity.com.br/ifal-iot) 2018 às 16H25 - Palestra: Raspberry Pi como roteador wi-fi e servidor web 
+
+
 
 ```bash
 pip install foobar
