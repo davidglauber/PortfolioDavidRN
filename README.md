@@ -6,6 +6,8 @@
 
 SearchDevs: Um site que cadastra empresas que procuram desenvolvedores próximos EM CONJUNTO com um aplicativo voltado aos desenvolvedores que procuram empregos. Usada a API do google maps
 
+PioT: Uma plataforma que integra ESP's (Placas Integradas), Site, Aplicativo, Sensores e Atuadores. Permitindo que um usuário sem conhecimento em programação consiga por si só controlar os sensores e criar regras de uso, além de receber notificações caso algum imprevisto ocorra com os equipamentos. Também é possível receber um relatório de gastos pelo app.    
+
 ## Conquistas
 ```bash
 Palestrou no [IFAL IoT](https://doity.com.br/ifal-iot) 2018 às 16H25 - Palestra: Raspberry Pi como roteador wi-fi e servidor web 
@@ -29,21 +31,3 @@ Português: Nativo
 Inglês: Intermediário
 Espanhol: Básico
 ```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
