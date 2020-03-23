@@ -2,6 +2,8 @@
 
 [MindShare](https://mindshare.cpsoftware.com.br): Site feito para facilitar e reduzir custos de viagens com palestrantes entre os Institutos Federais
 
+[LoadOn](https://loadon.netlify.com/): Site simples que consome uma ListAPI do Youtube 
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
