@@ -8,7 +8,9 @@ SearchDevs: A website that registers companies looking for nearby developers TOG
 
 [PioT](https://imgur.com/gallery/HCL0tzw): A platform that integrates ESP's (Integrated Boards), Website, Application, Sensors and Actuators. Allowing a user without programming knowledge to be able to control sensors and create usage rules on their own, in addition to receiving notifications in case any unforeseen event occurs with the equipment. It is also possible to receive an expense report via the app.   
 
-## Conquistas
+[WeWo](https://play.google.com/store/apps/details?id=com.zubito.wewo):The newest app created with the intention of bringing together people who want to hire and people who want to be hired in a simple way and filtered by location
+
+## Achievements
 ```bash
 Lecture at [IFAL IoT](https://doity.com.br/ifal-iot) 2018 - 16H25 - Lecture: Raspberry Pi as wifi router and web server 
 ```
